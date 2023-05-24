@@ -1,0 +1,32 @@
+.trendingMoviesUl{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    overflow-x: auto;
+    background-color: lightblue;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4OijiYO9pPVNueVE2AySXTKrkDwm9CdB2-g&usqp=CAU);
+}
+
+.trendingMoviesUl::-webkit-scrollbar{
+    display: none;
+}
+
+.trendingMoviesUl li{
+    list-style: none;
+    margin-left: 10px;
+    padding: 1%;
+    
+}
+
+
+.trendingMoviesUl h5{
+    background-color: gold;
+    border-radius: 20px;
+    margin: 5px 15px;
+    padding: 0 20px;
+}
+
+.trendingMoviesh4{
+    background-color: rgb(41, 25, 13);
+    color: white;
+}

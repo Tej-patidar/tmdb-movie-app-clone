@@ -1,0 +1,41 @@
+.container{
+    transform: translatey(-8px);
+    height: 25vmax;
+    background-image: url(https://images.unsplash.com/photo-1551478279-713be6cb027d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80);
+    color: white;
+
+}
+
+.container h2{
+    font-size: 4vmax;
+    padding-top: 5vmax;
+    padding-left: 2vmax;
+}
+
+.container h1{
+    padding-left: 2vmax;
+
+}
+
+.container input{
+    width: 80%;
+    height: 4vmax;
+    font-size: 2vmax;
+    margin: 2vmax 4vmax;
+    border-radius: 40px;
+    padding: 2%;
+}
+
+.container button{
+   padding: 0 2vmax;
+    background-color: blue;
+    font-size: 2vmax;
+    border-radius: 20px;
+    position: absolute;
+    left: 73%;
+    top: 67.1%;
+    color: white;
+}
+
+
+
